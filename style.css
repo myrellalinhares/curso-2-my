@@ -12,9 +12,10 @@
     --roboto-mono: 'Roboto Mono', monospace;
 }
 
-}
+
 
 body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
+    font-family: var(--roboto);
 }
